@@ -1,0 +1,20 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Rock-Paper-Scissors 1.0
+---------------------------------------------------
+
+app_name - 						Rock-Paper-Scissors
+app_alias - 					rockpaperscissors
+app_author_name - 				Asif
+app_author_organizational - 	Asif
+app_author_organization - 		Asif
+app_author_locality - 			Asif
+app_author_state - 				Telangana
+app_author_country - 			India
+app_password - 					8IfbqKuIqEY0
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+
+
